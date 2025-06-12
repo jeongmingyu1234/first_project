@@ -1,6 +1,3 @@
-import streamlit as t
-t.title("나의 첫 홈페이지")
-t.write("hello")
 import streamlit as st
 
 st.title("369 게임")
